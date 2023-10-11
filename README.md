@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **emrkts37@gmail.com**
 
-- ⚡ Fun fact **I think ı an funny**
+- ⚡ Fun fact **I think ı am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
