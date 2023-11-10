@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emre Aktaş</h1>
 <h3 align="center">I'm AWS/DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [Phonebook-Web-App](https://github.com/Emrkts/Phonebook-Web-App)
+- 🔭 I’m currently working on [AWS-Capstone-Django](https://github.com/Emrkts/AWS-Capstone-Django.git)
 
 - 📫 How to reach me **emrkts37@gmail.com**
 
